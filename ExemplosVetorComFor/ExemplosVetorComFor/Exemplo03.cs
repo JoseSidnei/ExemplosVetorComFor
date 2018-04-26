@@ -24,6 +24,37 @@ namespace ExemplosVetorComFor
                 quantidadePorcos[i] = Convert.ToInt32(Console.ReadLine());
             }
 
+            // Fazenda com a maior qauntidade de suínos
+            int maiorQuantidadeSuinos = int.MinValue;
+            string fazendaMaiorQuantidadeSuinos = "";
+            for (int i = 0; i < quantidadePorcos.Length; i++)
+            {
+                if (quantidadePorcos[i] > maiorQuantidadeSuinos)
+                {
+                    maiorQuantidadeSuinos = quantidadePorcos[i];
+                    fazendaMaiorQuantidadeSuinos = fazendas[i];
+                }
+
+            }
+
+            Console.WriteLine(
+                 "FAZENDA COM A MAIOR QUANTIDADE DE SUÌNOS: " +
+                  fazendaMaiorQuantidadeSuinos + " Contém " + 
+                  maiorQuantidadeSuinos);
+
+            // Fazenda como enor nome
+            string menorNome = "";
+            for (int i = 0; i < 1000; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    menorNome = menorNome + "a";
+                }
+                else
+                {
+                    menorNome = menorNome + "e";
+                }
+            }
         }
     }
 }
