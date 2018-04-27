@@ -9,8 +9,8 @@ namespace ExemplosVetorComFor
     public class Exemplo03
     {
         public Exemplo03() 
-        {
-            Console.Write("Digite a quantidade de registros que deseja cadastrar: ");
+        { 
+             Console.Write("Digite a quantidade de registros que deseja cadastrar: ");
             int quantidadeRegistros = Convert.ToInt32(Console.ReadLine());
 
             string[] fazendas = new string[quantidadeRegistros];
@@ -54,7 +54,7 @@ namespace ExemplosVetorComFor
                 {
                     menorNome = menorNome + "e";
                 }
-            }
         }
+
     }
 }

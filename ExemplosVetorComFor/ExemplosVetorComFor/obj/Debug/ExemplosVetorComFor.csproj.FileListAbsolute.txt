@@ -4,3 +4,6 @@ E:\ExemplosVetorComFor\ExemplosVetorComFor\bin\Debug\ExemplosVetorComFor.pdb
 E:\ExemplosVetorComFor\ExemplosVetorComFor\obj\Debug\ExemplosVetorComFor.csprojResolveAssemblyReference.cache
 E:\ExemplosVetorComFor\ExemplosVetorComFor\obj\Debug\ExemplosVetorComFor.exe
 E:\ExemplosVetorComFor\ExemplosVetorComFor\obj\Debug\ExemplosVetorComFor.pdb
+C:\Users\104895\Documents\GitHub\ExemplosVetorComFor\ExemplosVetorComFor\ExemplosVetorComFor\bin\Debug\ExemplosVetorComFor.exe.config
+C:\Users\104895\Documents\GitHub\ExemplosVetorComFor\ExemplosVetorComFor\ExemplosVetorComFor\obj\Debug\ExemplosVetorComFor.exe
+C:\Users\104895\Documents\GitHub\ExemplosVetorComFor\ExemplosVetorComFor\ExemplosVetorComFor\obj\Debug\ExemplosVetorComFor.pdb
